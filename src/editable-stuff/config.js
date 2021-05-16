@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Damian",
   middleName: "",
   lastName: "Hankins",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about changing humanitarian issues with technology. ",
   icons: [
     {
       image: "fa-github",
@@ -18,7 +18,7 @@ const mainBody = {
     
     {
       image: "fa-instagram",
-      url: "",
+      url: "https://www.instagram.com/damiandvlpr/",
     },
     {
       image: "fa-linkedin",
@@ -120,7 +120,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "damianchankins@gmail.com",
+  email: "damiandvlpr@gmail.com",
 };
 
 
