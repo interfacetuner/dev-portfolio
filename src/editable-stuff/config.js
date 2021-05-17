@@ -102,7 +102,7 @@ const skills = {
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 65 },
     { name: "Node.js", value: 80 },
-    { name: "MERN", value: 8 },
+    { name: "MERN", value: 85 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 95 },
