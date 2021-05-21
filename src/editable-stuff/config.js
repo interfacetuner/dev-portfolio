@@ -51,7 +51,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "A Software Engineer and graduate of General Assembly’s immersive bootcamp, I have a background in management. Collaborative and energized by learning, I have led large teams with strong communication and organizational skills. With project and budget management experience, I am looking forward to being part of an innovative engineering team to help creatively solve humanitarian issues.",
+    "A Software Engineer and graduate of General Assembly’s Immersive Bootcamp, I have a background in management. Collaborative and energized by learning, I have led large teams with strong communication and organizational skills. With project and budget management experience, I am looking forward to being part of an innovative engineering team to help creatively solve humanitarian issues.",
   
     resume: "https://docs.google.com/document/d/e/2PACX-1vQvsg6fYtxr02QXF7dk3UlOz4prJwimJM9PaTODjjNNBR0igDSZ_844xeFREiaLxo2qMX__TYeLMzms/pub",
 };
@@ -98,9 +98,10 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 65 },
+    { name: "JavaScript", value: 85 },
+    { name: "React", value: 75 },
+    { name: "Python", value: 60 },
+    { name: "HTML/CSS", value: 85 },
     { name: "Node.js", value: 80 },
     { name: "MERN", value: 85 },
   ],
