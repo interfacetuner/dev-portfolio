@@ -15,7 +15,7 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/interfacetuner",
     },
-    
+
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/damiandvlpr/",
@@ -52,8 +52,9 @@ const about = {
   imageSize: 375,
   message:
     "A Software Engineer and graduate of General Assembly’s Immersive Bootcamp, I have a background in management. Collaborative and energized by learning, I have led large teams with strong communication and organizational skills. With project and budget management experience, I am looking forward to being part of an innovative engineering team to help creatively solve humanitarian issues.",
-  
-    resume: "https://docs.google.com/document/d/e/2PACX-1vQvsg6fYtxr02QXF7dk3UlOz4prJwimJM9PaTODjjNNBR0igDSZ_844xeFREiaLxo2qMX__TYeLMzms/pub",
+
+  resume:
+    "https://docs.google.com/document/d/e/2PACX-1vQvsg6fYtxr02QXF7dk3UlOz4prJwimJM9PaTODjjNNBR0igDSZ_844xeFREiaLxo2qMX__TYeLMzms/pub",
 };
 
 // PROJECTS SECTION
@@ -65,7 +66,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "interfacetuner", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 2,
   specificRepos: [],
 };
 
@@ -76,21 +77,21 @@ const leadership = {
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/hashirshoaeb.png"),
+      label: "First slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/hashirshoaeb.png"),
+      label: "Second slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
   ],
   imageSize: {
-    width:"615",
-    height:"450"
-  }
+    width: "615",
+    height: "450",
+  },
 };
 
 // SKILLS SECTION
@@ -98,12 +99,12 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "JavaScript", value: 85 },
+    { name: "JavaScript", value: 80 },
     { name: "React", value: 75 },
-    { name: "Python", value: 60 },
+    { name: "Python", value: 55 },
     { name: "HTML/CSS", value: 85 },
     { name: "Node.js", value: 80 },
-    { name: "MERN", value: 85 },
+    { name: "React Native", value: 55 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 95 },
@@ -123,8 +124,6 @@ const getInTouch = {
     "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "damiandvlpr@gmail.com",
 };
-
-
 
 // Blog SECTION
 // const blog = {
