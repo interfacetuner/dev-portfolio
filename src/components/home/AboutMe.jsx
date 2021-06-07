@@ -39,10 +39,10 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
             {showPic && (
               <img
                 className="border border-secondary rounded-circle"
-                src={profilePicUrl}
+                src={"https://www.instagram.com/damiandvlpr/"}
                 alt="profilepicture"
-                width={imgSize}
-                height={imgSize}
+                width={'100px'}
+                height={'100px'}
               />
             )} */}
         </div>
