@@ -55,7 +55,7 @@ const about = {
     "A Software Engineer and graduate of General Assembly’s Immersive Bootcamp, I have a background in management. Collaborative and energized by learning, I have led large teams with strong communication and organizational skills. With project and budget management experience, I am looking forward to being part of an innovative engineering team to help creatively solve humanitarian issues.",
 
   resume:
-    "https://docs.google.com/document/d/e/2PACX-1vQvsg6fYtxr02QXF7dk3UlOz4prJwimJM9PaTODjjNNBR0igDSZ_844xeFREiaLxo2qMX__TYeLMzms/pub",
+    "https://docs.google.com/document/d/e/2PACX-1vSgo3R44aeOJmm_qAKNfcdS6RqqCcnzj5m3HFcuM0u8aGTvdOG2KGm0_b2ojJzK2A/pub",
 };
 
 // PROJECTS SECTION
